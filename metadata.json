@@ -1,0 +1,6 @@
+{
+  "name": "Dur Bakalım",
+  "description": "Harcamadan önce durup düşündüren, dürtüsel alışverişleri azaltan sakin ve minimalist bir bütçe farkındalığı uygulaması.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
